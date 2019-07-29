@@ -17,4 +17,4 @@ released: false
 
 # Лучшие мемы за этот период
 
-
+{% twitter https://twitter.com/rmstdio/status/1155466459813941248 %}
