@@ -4,7 +4,7 @@ email: talk@underjs.ru
 description: >- # this means to ignore newlines until "baseurl:"
   UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
 baseurl: ""
-url: ""
+url: "https://underjs.ru"
 twitter_username: underjs
 github_username:  ovrweb
 
