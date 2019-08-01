@@ -53,3 +53,11 @@ header .emoji .ltr {
     display: inline-block;
     transform: scale(-1, 1);
 }
+
+.social-links {
+    font-size: 24px;
+}
+
+.social-links a {
+    padding: 10px 15px;
+}
