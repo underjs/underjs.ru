@@ -1,0 +1,55 @@
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.row-center {
+    align-items: center;
+    justify-content: center;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+header {
+    margin: 4px 16px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+}
+
+header > a {
+    display: inline-block;
+}
+
+header .about {
+    float: right;
+}
+
+header .logo .emoji {
+    padding-right: 10px;
+    font-size: 28px;
+}
+
+header .emoji .ltr {
+    display: inline-block;
+    transform: scale(-1, 1);
+}
