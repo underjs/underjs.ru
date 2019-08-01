@@ -14,3 +14,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-twitter-plugin
+  - jekyll-sitemap
