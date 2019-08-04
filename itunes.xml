@@ -30,7 +30,7 @@ layout: null
         <item>
             <title>{{ post.title }}</title>
             <itunes:explicit>Yes</itunes:explicit>
-            <itunes:author>{{ site.author }}</itunes:author>
+            <itunes:author>{{ site.podcast.author }}</itunes:author>
             <itunes:duration>{{ post.duration }}</itunes:duration>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <itunes:subtitle></itunes:subtitle>

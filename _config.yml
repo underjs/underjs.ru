@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
 baseurl: ""
 url: "https://underjs.ru"
+
 twitter_username: underjs
 github_username:  ovrweb
 
@@ -14,6 +15,7 @@ licence: CC-BY-CA
 # Podcast
 podcast:
   title: UnderJS Podcast
+  author: Dmitry Patsura
   link: https://underjs.ru/
   art: https://underjs.ru/assets/images/logo-512px.jpg
   category: Technology
