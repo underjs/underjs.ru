@@ -1,8 +1,14 @@
 ---
 layout: podcast
 title: "#1 - Пилотный - Настоящий Underground"
-date: 2019-07-29 23:23:21 +0300
-released: false
+date: 2019-08-04 00:02:00 +0300
+categories: podcast
+guid: DD187A42-51EF-4B11-8C65-DF132D79C74A
+released: true
+mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.mp3
+m4a: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.m4a
+ogg: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.ogg
+opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.opus
 ---
 
 > Привет коллега! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.
