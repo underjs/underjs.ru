@@ -21,6 +21,18 @@ podcast:
   summary: >
     UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
 
+sc_player:
+  auto_play: false
+  buying: true
+  liking: true
+  download: true
+  sharing: true
+  show_artwork: true
+  show_comments: true
+  show_playcount: true
+  show_user: true
+  start_track: 0
+
 # Build settings
 markdown: kramdown
 theme: minima

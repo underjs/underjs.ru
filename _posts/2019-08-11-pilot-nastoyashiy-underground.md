@@ -15,6 +15,8 @@ opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.opus
 
 > Привет коллега! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.
 
+{% sc_player https://soundcloud.com/underjs/1-pilotnyy-nastoyashchiy-underground-2 %}
+
 - [00:03:55 - Facebook выпустила новый движек Hermes для RN](#) <sup>[1](#note1)</sup>
 - [00:07:46 - Что же такое JIT?](#)
 - [00:11:55 - TypeScript vs Flow?](#)
