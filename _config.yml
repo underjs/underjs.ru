@@ -8,6 +8,19 @@ url: "https://underjs.ru"
 twitter_username: underjs
 github_username:  ovrweb
 
+# Misc
+licence: CC-BY-CA
+
+# Podcast
+podcast:
+  title: UnderJS Podcast
+  link: https://underjs.ru/
+  art: https://underjs.ru/assets/images/logo-512px.jpg
+  category: Technology
+  subtitle: "UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут."
+  summary: >
+    UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
+
 # Build settings
 markdown: kramdown
 theme: minima

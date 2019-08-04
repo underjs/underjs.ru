@@ -5,8 +5,10 @@ date: 2019-08-04 00:02:00 +0300
 categories: podcast
 guid: DD187A42-51EF-4B11-8C65-DF132D79C74A
 released: true
-mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.mp3
+duration: 01:17:36
 m4a: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.m4a
+m4a_length: 76248886
+mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.mp3
 ogg: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.ogg
 opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.opus
 ---
