@@ -17,7 +17,7 @@ opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.opus
 
 {% sc_player https://soundcloud.com/underjs/1-pilotnyy-nastoyashchiy-underground-2 %}
 
-- [00:03:55 - Facebook выпустила новый движек Hermes для RN](#) <sup>[1](#note1)</sup>
+- [00:03:55 - Facebook выпустила новый движок Hermes для React Native](#) <sup>[1](#note1)</sup>
 - [00:07:46 - Что же такое JIT?](#)
 - [00:11:55 - TypeScript vs Flow?](#)
 - [00:13:02 - Новый формат байт-кода в JavaScript Core](#) <sup>[2](#note2)</sup>
