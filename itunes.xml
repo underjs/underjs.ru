@@ -2,10 +2,11 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
     <channel>
         <title>{{ site.podcast.title }}</title>
         <link>{{ site.podcast.link }}</link>
+        <googleplay:author>{{ site.author }}</googleplay:author>
         <itunes:author>{{ site.author }}</itunes:author>
         <copyright>{{ site.license }}</copyright>
         <language>ru-RU</language>
@@ -17,6 +18,7 @@ layout: null
         {% endfor %}
         </itunes:category>
         <itunes:explicit>Yes</itunes:explicit>
+        <googleplay:image href="{{ site.podcast.art }}"/>
         <itunes:image href="{{ site.podcast.art }}"/>
         <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
         <description>{{ site.podcast.summary }}</description>
