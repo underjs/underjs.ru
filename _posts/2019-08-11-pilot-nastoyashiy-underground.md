@@ -11,6 +11,8 @@ m4a_length: 76248886
 mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.mp3
 ogg: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.ogg
 opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/1/1.opus
+seo:
+  type: OnDemandEvent
 ---
 
 > Привет коллега! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.
