@@ -6,12 +6,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://underjs.ru"
 
-author: Дмитрий Пацура, Артём Кобзарь
 twitter_username: underjs
 github_username:  underjs
 
+author:
+  name: "Дмитрий Пацура, Артём Кобзарь"
+  twitter: ovrweb
+
 # Misc
 license: CC-BY-CA
+
+twitter:
+  username: underjs
+  creator: ovrweb
+  card: summary
 
 # Podcast
 podcast:

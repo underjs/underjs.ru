@@ -6,8 +6,8 @@ layout: null
     <channel>
         <title>{{ site.podcast.title }}</title>
         <link>{{ site.podcast.link }}</link>
-        <googleplay:author>{{ site.author }}</googleplay:author>
-        <itunes:author>{{ site.author }}</itunes:author>
+        <googleplay:author>{{ site.author.name }}</googleplay:author>
+        <itunes:author>{{ site.author.name }}</itunes:author>
         <copyright>{{ site.license }}</copyright>
         <language>ru-RU</language>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
@@ -24,7 +24,7 @@ layout: null
         <description>{{ site.podcast.summary }}</description>
         <itunes:summary>{{ site.podcast.summary }}</itunes:summary>
         <itunes:owner>
-            <itunes:name>{{ site.author }}</itunes:name>
+            <itunes:name>{{ site.author.name }}</itunes:name>
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
         <generator>Jekyll v{{ jekyll.version }}</generator>
