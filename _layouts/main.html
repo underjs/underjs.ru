@@ -3,16 +3,19 @@ layout: default
 ---
 
 <div class="main-header row row-center">
-    <div class="logo">
-        UnderJS
-        <span class="emoji">
-            <span class="ltr">🦄</span>🎧🦄
-        </span>
-        Podcast
+    <div class="flex-column">
+        <div class="row row-center">
+            <div class="logo">
+                UnderJS
+                <span class="emoji"><span class="ltr">🦄</span>🎧🦄</span>
+                Podcast
+            </div>
+        </div>
+        <div class="row row-center">
+            <h1>самый безызвестный подкаст во всем frontend</h1>
+        </div>
     </div>
 </div>
-
-<!--<div id="pikachu"></div>-->
 
 <div class="row row-center social-links">
     <a href="/feed.xml" target="_blank">Atom RSS</a>
@@ -32,7 +35,9 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <h2>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
         </li>
         {% endfor %}
     </ul>

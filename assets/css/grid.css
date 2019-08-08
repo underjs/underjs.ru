@@ -70,7 +70,7 @@ header .emoji .ltr {
     background-color: #fddf43;
 }
 
-.main-header > .logo {
+.main-header .logo {
     display: inline-block;
     font-size: 72px;
 }
