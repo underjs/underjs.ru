@@ -26,11 +26,20 @@ image:
 
 - <b id="note1">1</b> [Ядро Linux не может мягко обрабатывать ситуации с нехваткой памяти](https://www.opennet.ru/opennews/art.shtml?num=51231)
 - <b id="note2">2</b> [Выпуск встраиваемого JavaScript-движка Duktape 2.4.0](http://www.opennet.ru/opennews/art.shtml?num=51220)
-- <b id="note3">3</b> [WebAssembly and SIMD](https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8)
 
 # Цитатки из выпуска
 
 > Первой моей неудачной любовью была Ubuntu
+
 > Классическая рубрика, движок для JavaScript-a
+
 > Язык он задает архитектуру, как мы
+
 > Все что больше 2ух к строк на Go language, это какое-то дерьмо
+
+
+# Ближайшие конференции
+
+- [TechTrain](https://techtrain.ru/) г. Санкт-Петербург, 24-25 августа, участие платное
+- [Krasnodar Dev Conf 2019](https://krd.dev/events/14) г. Краснодар, 24-25 августа, участие платное
+- [PiterJS Conf](https://piterjs.org/) г. Санкт-Петербург, 7 сентября, участие бесплатное
