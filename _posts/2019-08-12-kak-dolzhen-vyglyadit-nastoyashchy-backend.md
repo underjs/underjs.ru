@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "#2 - Как должен выглядит настоящий Backend на NodeJS?"
-date: 2019-08-12 19:00:00 +0300
+date: 2019-08-12 21:00:00 +0300
 categories: podcast
 guid: "2D3CAED4-A80D-4926-80D7-16703E680B1C"
 released: true
