@@ -1,8 +1,16 @@
 ---
 layout: podcast
-title: "#2 - Начали с Linux OOM, закончили за Electron"
+title: "#2 - Как должен выглядит настоящий Backend на NodeJS?"
+date: 2019-08-12 19:00:00 +0300
 categories: podcast
-guid: 22B8EC7C-E00B-4AAD-8475-F41C677E537B
+guid: "2D3CAED4-A80D-4926-80D7-16703E680B1C"
+released: true
+duration: "01:07:38"
+m4a: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.m4a
+m4a_length: 65697762
+mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.mp3
+ogg: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.ogg
+opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.opus
 seo:
     type: OnDemandEvent
 image:
@@ -21,6 +29,8 @@ image:
 - 🔥 [00:XX:XX - Как должен выглядит настоящий Backend?](#)
 - 🔥 [00:XX:XX - Как относиться к Backend программисту который FullStack, но пришел из FrontEnd](#)
 - 🆕 [00:XX:XX - Обертки над функциями в Electron](#)
+- 🆕 [00:XX:XX - ](#)
+- 🆕 [00:XX:XX - FireFox](#)
 
 # Ссылки из осбуждений
 
