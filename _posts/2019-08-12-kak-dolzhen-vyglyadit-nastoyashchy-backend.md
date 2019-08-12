@@ -6,11 +6,11 @@ categories: podcast
 guid: "2D3CAED4-A80D-4926-80D7-16703E680B1C"
 released: true
 duration: "01:07:38"
-m4a: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.m4a
+m4a: https://files.underjs.ru/2/2.m4a
 m4a_length: 65697762
-mp3: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.mp3
-ogg: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.ogg
-opus: http://underjs-podcast.s3.eu-north-1.amazonaws.com/2/2.opus
+mp3: https://files.underjs.ru/2/2.mp3
+ogg: https://files.underjs.ru/2/2.ogg
+opus: https://files.underjs.ru/2/2.opus
 seo:
     type: OnDemandEvent
 image:
