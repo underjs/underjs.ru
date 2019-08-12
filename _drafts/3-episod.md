@@ -11,9 +11,6 @@ image:
     width: 512
 ---
 
-- [00:XX:XX - Поддержка SIMD в WebAssembly / Wasmer](#)
-- [00:XX:XX - FireFox, эксперементы c DNS SEC](#)
-- [00:XX:XX - Прослушка HTTPS трафика, на примере Казахстана](#)
 - [00:XX:XX - Релиз Chrome 76](#)
 - [00:XX:XX - Как релиз Docker поломал всем CI](#)
 - [00:XX:XX - Разговоры по поводу CI](#)
