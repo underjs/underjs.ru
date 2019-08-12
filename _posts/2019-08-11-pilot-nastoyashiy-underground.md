@@ -6,11 +6,11 @@ categories: podcast
 guid: DD187A42-51EF-4B11-8C65-DF132D79C74A
 released: true
 duration: "01:17:36"
-m4a: https://files.underjs.ru/1/1.m4a
+m4a: https://files.underjs.ru/1/episod.m4a
 m4a_length: 76248886
-mp3: https://files.underjs.ru/1/1.mp3
-ogg: https://files.underjs.ru/1/1.ogg
-opus: https://files.underjs.ru/1/1.opus
+mp3: https://files.underjs.ru/1/episod.mp3
+ogg: https://files.underjs.ru/1/episod.ogg
+opus: https://files.underjs.ru/1/episod.opus
 seo:
     type: OnDemandEvent
 image:
