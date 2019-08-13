@@ -219,3 +219,9 @@ header .emoji .ltr {
         display: none;
   }
 }
+
+@media screen and (max-width: 350px) {
+  header .logo .emoji {
+        display: none;
+  }
+}
