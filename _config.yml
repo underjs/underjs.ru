@@ -11,6 +11,11 @@ language: ru
 twitter_username: underjs
 github_username:  underjs
 
+defaults:
+  path: "/assets/images"
+  values:
+    image: true
+
 author:
   name: "Дмитрий Пацура, Артём Кобзарь"
   twitter: ovrweb
