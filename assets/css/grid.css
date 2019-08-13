@@ -179,6 +179,22 @@ header .emoji .ltr {
 .nayan-active {
     animation: nayan-frames 10s steps(100) infinite;
 }
+
+.other-players {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto 30px auto;
+  width: 100%;
+  max-width: 300px;
+}
+
+.other-players img {
+  max-height: 50px;
+}
+
 @-webkit-keyframes nayan-frames {
     0% {
         left: 0;
