@@ -17,7 +17,7 @@ layout: null
         <itunes:category text="{{ subcategory }}"/>
         {% endfor %}
         </itunes:category>
-        <itunes:explicit>Yes</itunes:explicit>
+        <itunes:explicit>No</itunes:explicit>
         <googleplay:image href="{{ site.podcast.art }}"/>
         <itunes:image href="{{ site.podcast.art }}"/>
         <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
@@ -31,7 +31,7 @@ layout: null
         {% for post in site.categories.podcast %}
         <item>
             <title>{{ post.title }}</title>
-            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:explicit>{{ post.explicit | default: "No" }}</itunes:explicit>
             <itunes:author>{{ site.podcast.author }}</itunes:author>
             <itunes:duration>{{ post.duration }}</itunes:duration>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
