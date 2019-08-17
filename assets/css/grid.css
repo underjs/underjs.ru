@@ -198,6 +198,22 @@ header .emoji .ltr {
     }
 }
 
+@media (prefers-color-scheme: dark) {
+    .main-header {
+        padding: 25px;
+        background-color: #a9720d;
+    }
+
+    body {
+        color: #eaebec;
+        background-color: #000000;
+    }
+
+    a {
+        color: #e4f5ff !important;
+    }
+}
+
 @media screen and (max-width: 970px) {
   #nayan {
         display: none;
