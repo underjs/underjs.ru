@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://underjs.ru"
 logo: https://underjs.ru/assets/images/logo-512px.jpg
 lang: ru-RU
+language: ru
 twitter_username: underjs
 github_username:  underjs
 

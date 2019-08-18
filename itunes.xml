@@ -9,7 +9,7 @@ layout: null
         <googleplay:author>{{ site.author.name }}</googleplay:author>
         <itunes:author>{{ site.author.name }}</itunes:author>
         <copyright>{{ site.license }}</copyright>
-        <language>ru-RU</language>
+        <language>{{ site.language }}</language>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
         <itunes:category text="{{ site.podcast.itunes.category }}" />
