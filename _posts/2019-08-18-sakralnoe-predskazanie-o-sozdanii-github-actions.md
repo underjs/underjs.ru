@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "#3 - Сакральное предсказание о создании GitHub Actions
+title: "#3 - Сакральное предсказание о создании GitHub Actions"
 date: 2019-08-18 21:00:00 +0300
 categories: podcast
 guid: "2D3CAED4-A80D-4926-80D7-16703E680B1C"
