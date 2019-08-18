@@ -33,10 +33,13 @@ podcast:
   author: Дмитрий Пацура, Артём Кобзарь
   link: https://underjs.ru/
   art: https://underjs.ru/assets/images/logo-1400px.jpg
-  category: Technology
   subtitle: "UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут."
   summary: >
     UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
+  itunes:
+    category: Technology
+  google:
+    category: Technology
 
 sc_player:
   auto_play: false

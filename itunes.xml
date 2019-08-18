@@ -12,11 +12,8 @@ layout: null
         <language>ru-RU</language>
         <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
         <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-        <itunes:category text="{{ site.podcast.category }}">
-        {% for subcategory in site.podcast.subcategories %}
-        <itunes:category text="{{ subcategory }}"/>
-        {% endfor %}
-        </itunes:category>
+        <itunes:category text="{{ site.podcast.itunes.category }}" />
+        <googleplay:category text="{{ site.podcast.google.category }}"/>
         <itunes:explicit>No</itunes:explicit>
         <googleplay:image href="{{ site.podcast.art }}"/>
         <itunes:image href="{{ site.podcast.art }}"/>
