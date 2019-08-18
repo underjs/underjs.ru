@@ -61,4 +61,4 @@ image:
 
 - [TechTrain](https://techtrain.ru/) г. Санкт-Петербург, 24-25 августа, участие платное
 - [Krasnodar Dev Conf 2019](https://krd.dev/events/14) г. Краснодар, 24-25 августа, участие платное
-- [PiterJS Conf](https://piterjs.org/) г. Санкт-Петербург, 7 сентября, участие бесплатное
+- [PiterJS Conf](https://conf.piterjs.org/) г. Санкт-Петербург, 7 сентября, участие бесплатное
