@@ -21,7 +21,7 @@ image:
 
 > Третий выпуск! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.
 
-{% sc_player https://soundcloud.com/underjs/2-kak-dolzhen-vyglyadit-nastoyashchiy-backend-na-nodejs %}
+{% sc_player https://soundcloud.com/underjs/3-sakralnoe-predskazanie-o-sozdanii-github-actions %}
 {% other_players https://music.yandex.ru/album/8291062 https://podcasts.apple.com/ru/podcast/underjs-podcast/id1475405773 nil nil nil https://youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7 %}
 
 - 🆕   [00:01:48 - Новое в Chrome 76](#)
