@@ -24,11 +24,6 @@ image:
 {% sc_player https://soundcloud.com/underjs/2-kak-dolzhen-vyglyadit-nastoyashchiy-backend-na-nodejs %}
 {% other_players https://music.yandex.ru/album/8291062 https://podcasts.apple.com/ru/podcast/underjs-podcast/id1475405773 nil nil nil https://youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7 %}
 
-- [TechTrain](https://techtrain.ru/) г. Санкт-Петербург, 24-25 августа, участие платное
-- [Krasnodar Dev Conf 2019](https://krd.dev/events/14) г. Краснодар, 24-25 августа, участие платное
-- [PiterJS Conf](https://piterjs.org/) г. Санкт-Петербург, 7 сентября, участие бесплатное
-
-
 - 🐧 [00:50:00 - Ядро Linux не может мягко обрабатывать ситуации с нехваткой памяти](#) <sup>[1](#note1)</sup>
 - 🐧 [00:01:54 - Обсуждение про любовь к линуксу](#)
 - 🐧 [00:03:25 - Таильные оконные менеджеры](#)

@@ -5,12 +5,12 @@ date: 2019-08-18 21:00:00 +0300
 categories: podcast
 guid: "2D3CAED4-A80D-4926-80D7-16703E680B1C"
 released: true
-duration: "01:07:38"
-m4a: https://files.underjs.ru/2/episod.m4a
-m4a_length: 65697762
-mp3: https://files.underjs.ru/2/episod.mp3
-ogg: https://files.underjs.ru/2/episod.ogg
-opus: https://files.underjs.ru/2/episod.opus
+duration: "01:22:03"
+m4a: https://files.underjs.ru/3/episod.m4a
+m4a_length: 79693583
+mp3: https://files.underjs.ru/3/episod.mp3
+ogg: https://files.underjs.ru/3/episod.ogg
+opus: https://files.underjs.ru/3/episod.opus
 seo:
     type: OnDemandEvent
 image:
