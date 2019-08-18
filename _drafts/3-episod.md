@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "#3 - *******"
+title: "#3 - Сакральное предсказание о создании GitHub Actions"
 categories: podcast
 guid: 06416EBA-579F-4C57-BA9C-D352BEFD7E2F
 seo:
