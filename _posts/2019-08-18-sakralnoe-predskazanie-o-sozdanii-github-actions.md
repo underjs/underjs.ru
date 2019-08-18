@@ -25,23 +25,27 @@ image:
 {% other_players https://music.yandex.ru/album/8291062 https://podcasts.apple.com/ru/podcast/underjs-podcast/id1475405773 nil nil nil https://youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7 %}
 
 - 🆕   [00:01:48 - Новое в Chrome 76](#) <sup>[1](#note1)</sup>
-- 🆕   [00:10:43 - WeakRef Proposal](#) <sup>[1](#note1)</sup>
-- 🤔   [00:15:04 - Docker ломает CI (пророчество о создании GitHub Actions до его выпуска)](#)
-- 🆕   [00:28:10 - OniVim. восторг и разочарование](#) <sup>[1](#note1)</sup>
-- 🆕   [00:31:42 - TypeScript 3.6](#) <sup>[1](#note1)</sup>
-- 🆕🔥 [00:45:30 - Новый релиз React + спор про SSR](#) <sup>[1](#note1)</sup>
-- 🆕   [00:59:14 - Новый релиз Preact](#) <sup>[1](#note1)</sup>
+- 🆕   [00:10:43 - WeakRef Proposal](#) <sup>[3](#note3)</sup>
+- 🤔   [00:15:04 - Docker ломает CI (пророчество о создании GitHub Actions до его выпуска)](#) <sup>[4](#note4)</sup>
+- 🆕   [00:28:10 - OniVim. восторг и разочарование](#) <sup>[5](#note5)</sup>
+- 🆕   [00:31:42 - TypeScript 3.6](#) <sup>[6](#note6)</sup>
+- 🆕🔥 [00:45:30 - Новый релиз React + спор про SSR](#) <sup>[7](#note7)</sup>
+- 🆕   [00:59:14 - Новый релиз Preact](#) <sup>[8](#note8)</sup>
 - 🤔   [01:03:24 - PHPFIG и стандартизация JS фреймворков](#)
-- 🤔   [01:08:24 - Эх, ООП, ООП, я тебя никому не отдам...](#)
+- 🤔   [01:08:24 - Эх, ООП, ООП, я тебя никому не отдам...](#) <sup>[9](#note9)</sup>
 - 🆕   [01:17:07 - Ближайшие конференции](#)
 
 # Ссылки из осбуждений
 
-- <b id="note1">1</b> [Issue Preact larger React](https://github.com/preactjs/preact/issues/1289)
-- <b id="note2">2</b> [Выпуск встраиваемого JavaScript-движка Duktape 2.4.0](http://www.opennet.ru/opennews/art.shtml?num=51220)
-- <b id="note3">3</b> [WebAssembly and SIMD](https://medium.com/wasmer/webassembly-and-simd-13badb9bf1a8)
-- <b id="note4">4</b> [В Firefox будет проведён эксперимент, связанный с DNS-over-HTTPS](http://www1.opennet.ru/opennews/art.shtml?num=51204)
-- <b id="note5">5</b> [Dockerizing modern web apps](https://dev.to/hoverbaum/dockerizing-spas-2lc9)
+- <b id="note1">1</b> [Chrome 76 новинки](https://www.opennet.ru/opennews/art.shtml?num=51090)
+- <b id="note2">2</b> [Chrome 76 блокировка лазейки FileSystem API](http://www.opennet.ru/opennews/art.shtml?num=51122)
+- <b id="note3">3</b> [WeakRef Proposal](https://github.com/tc39/proposal-weakrefs)
+- <b id="note4">4</b> [Docker ломает релизы](https://about.gitlab.com/2019/07/31/docker-in-docker-with-docker-19-dot-03/)
+- <b id="note5">5</b> [OniVim 2](https://v2.onivim.io/)
+- <b id="note6">6</b> [TypeScript 3.6](https://devblogs.microsoft.com/typescript/announcing-typescript-3-6-rc/)
+- <b id="note7">7</b> [React 16.9 PR](https://github.com/facebook/react/pull/16254)
+- <b id="note8">8</b> [Issue Preact larger React](https://github.com/preactjs/preact/issues/1289)
+- <b id="note9">9</b> [OOP features in new languages](https://news.ycombinator.com/item?id=20320752&utm_source=twitter.com&utm_medium=social&utm_campaign=uvlekatelnoe-obsuzhdenie-na-hacker-news&utm_content=31000962)
 
 # Цитатки из выпуска
 
