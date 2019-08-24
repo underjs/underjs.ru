@@ -21,6 +21,38 @@ layout: default
             <a href="https://github.com/underjs/underjs.ru" style="float: right;">Edit on GitHub</a>
         </div>
 
+        {% if page.episod.soundcloud %}
+            <iframe id="sc-widget-0" src="https://w.soundcloud.com/player/?url={{ page.episod.soundcloud }}" width='100%' scrolling='no' frameborder='no'></iframe>
+        {% endif %}
+
+        {% if page.episod %}
+            <ul class="other-players">
+                {% if page.episod.yandex %}
+                    <li>
+                        <a href="{{ page.episod.yandex }}" target='_blank'>
+                            <img src="/assets/images/music.yandex.ru.png" title="Слушать на Yandex" alt="Yandex" />
+                        </a>
+                    </li>
+                {% endif %}
+
+                {% if page.episod.apple %}
+                <li>
+                    <a href="{{ page.episod.apple }}" target='_blank'>
+                        <img src="/assets/images/podcasts.apple.com.png" title="Слушать на Apple Podcast" alt="Apple" />
+                    </a>
+                </li>
+                {% endif %}
+
+                {% if page.episod.youtube %}
+                <li>
+                    <a href="{{ page.episod.youtube }}" target='_blank'>
+                        <img src="/assets/images/youtube.com.png" title="Слушать на Youtube" alt="Youtube" />
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        {% endif %}
+
         {{ content }}
     </article>
 

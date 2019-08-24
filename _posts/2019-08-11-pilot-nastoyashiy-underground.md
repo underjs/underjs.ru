@@ -17,11 +17,14 @@ image:
     path: https://underjs.ru/assets/images/logo-512px.jpg
     height: 512
     width: 512
+episod:
+    soundcloud: "https://soundcloud.com/underjs/1-pilotnyy-nastoyashchiy-underground-2"
+    yandex: "https://music.yandex.ru/album/8291062/track/56166550"
+    apple: "https://podcasts.apple.com/ru/podcast/1-%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9-underground/id1475405773?i=1000446094607"
+    youtube: "https://www.youtube.com/watch?v=mIg28jr_6RI&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 ---
 
 > Привет коллега! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.
-
-{% sc_player https://soundcloud.com/underjs/1-pilotnyy-nastoyashchiy-underground-2 %}
 
 - [00:03:55 - Facebook выпустила новый движок Hermes для React Native](#) <sup>[1](#note1)</sup>
 - [00:07:46 - Что же такое JIT?](#)
