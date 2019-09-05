@@ -58,6 +58,7 @@ header {
     height: 50px;
     line-height: 50px;
     font-size: 24px;
+    margin-bottom: 40px;
 }
 
 header > a {
@@ -193,6 +194,60 @@ header .emoji .ltr {
 
 .other-players img {
   max-height: 50px;
+}
+
+.guests {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 25px 0px;
+  margin: 0;
+}
+
+.guest img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.guest h3 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.guest-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.guest-info > div {
+  display: flex;
+  box-sizing: border-box;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 100%;
+}
+
+.guest-info img {
+  max-width: 300px;
+  position: relative;
+  width: 60%;
+  height: auto;
+}
+
+.guest-info aside {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding-left: 25px;
+  position: relative;
+  width: 100%;
+  min-width: 200px;
 }
 
 @-webkit-keyframes nayan-frames {

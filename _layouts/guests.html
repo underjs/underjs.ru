@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<header class="row">
+    <a href="/" class="logo">
+        UnderJS
+        <span class="emoji">
+            <span class="ltr">🦄</span>🎧🦄
+        </span>
+        Podcast
+    </a>
+</header>
+
+<section class="guest-info">
+  <div>
+    <img src="{{page.avatar}}" title="{{page.name}}" alt="{{page.name}}" />
+    <aside>
+      <h2>{{page.name}}</h2> 
+      <h3>{{page.position}}</h3>
+      {% if page.twitter %}
+      <a href="https://twitter.com/{{page.twitter}}" target="_blank">
+        <i class="fa fa-twitter"></i> {{page.twitter}}
+      </a>
+      {% endif %}
+    </aside>
+  </div>
+</section>
+
+<div class="container article-wrapper">
+    <article class="row flex-column">
+        {{ content }}
+    </article>
+</div>
