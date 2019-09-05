@@ -53,6 +53,24 @@ layout: default
             </ul>
         {% endif %}
 
+        {% if page.guests %}
+          <h2>Гости Выпуска</h2>
+          <ul class="guests">
+          {% for guest in page.guests %}
+            {% for g in site.guests %}
+              {% if g.name == guest %}
+              <li class="guest">
+                <a href="{{g.id}}">
+                  <img src="{{g.avatar}}">
+                  <h3>{{g.name}}</h3>
+                </a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          </ul>
+        {% endif %}
+
         {{ content }}
     </article>
 

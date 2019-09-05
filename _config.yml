@@ -67,3 +67,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-sitemap
   - jekyll-seo-tag
+
+collections:
+  guests:
+    output: true
