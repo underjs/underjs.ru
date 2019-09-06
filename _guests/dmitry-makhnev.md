@@ -1,5 +1,5 @@
 ---
-layout: guests
+layout: guest
 name: Дмитрий Махнев
 avatar: https://images.ctfassets.net/nn534z2fqr9f/2ZygyvNc24Iq0KuMCGacIc/49a239793b2f1424031fb69086deb1af/avatar_new.png?w=340
 twitter: DmitryMakhnev
