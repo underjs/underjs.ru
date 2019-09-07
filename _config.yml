@@ -2,7 +2,7 @@
 title: UnderJS Podcast
 email: talk@underjs.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
+  UnderJS podcast – самый безызвестный подкаст во всём фронтенде. Underground уже тут.
 baseurl: ""
 url: "https://underjs.ru"
 logo: https://underjs.ru/assets/images/logo-512px.jpg
@@ -39,9 +39,9 @@ podcast:
   author: Дмитрий Пацура, Артём Кобзарь
   link: https://underjs.ru/
   art: https://underjs.ru/assets/images/logo-1400px.jpg
-  subtitle: "UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут."
+  subtitle: "UnderJS podcast – самый безызвестный подкаст во всём фронтенде. Underground уже тут."
   summary: >
-    UnderJS podcast – самый безызвестный подкаст во всем frontend. Underground уже тут.
+    UnderJS podcast – самый безызвестный подкаст во всём фронтенде. Underground уже тут.
   itunes:
     category: Technology
   google:
