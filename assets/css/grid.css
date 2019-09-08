@@ -199,9 +199,13 @@ header .emoji .ltr {
 .guests {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   padding: 25px 0px;
   margin: 0;
+}
+
+.guests > li {
+  margin: 0 25px;
 }
 
 .guest img {
