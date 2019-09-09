@@ -67,6 +67,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 collections:
   guests:
