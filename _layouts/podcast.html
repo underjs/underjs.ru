@@ -60,8 +60,8 @@ layout: default
             {% for g in site.guests %}
               {% if g.name == guest %}
               <li class="guest">
-                <a href="{{g.id}}">
-                  <img src="{{g.avatar}}">
+                <a href="{{ g.url }}">
+                  <img src="{{ g.avatar }}">
                   <h3>{{g.name}}</h3>
                 </a>
               </li>

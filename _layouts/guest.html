@@ -38,7 +38,7 @@ layout: default
         {% for post in site.posts %}
             {% if post.guests contains page.name  %}
             <li>
-                <a href="{{post.id}}.html">
+                <a href="{{ post.url }}">
                     <h3>{{ post.title }}</h3>
                 </a>
             </li>
