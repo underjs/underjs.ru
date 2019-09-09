@@ -3,25 +3,14 @@ layout: podcast
 title: "#5 - Разговор с Романом Дворновым про Open-Source и вкусные детали Web [Ламповый]"
 date: 2019-09-xx xx:xx:xx +0300
 categories: podcast
-guid: "34F08637-9B8C-4615-8F22-572B2E422263"
 released: true
 duration: "00:49:35"
-m4a: https://files.underjs.ru/5/episod.m4a
-m4a_length: 59861573
-mp3: https://files.underjs.ru/5/episod.mp3
-ogg: https://files.underjs.ru/5/episod.ogg
-opus: https://files.underjs.ru/5/episod.opus
 seo:
     type: OnDemandEvent
 image:
     path: https://underjs.ru/assets/images/logo-512px.jpg
     height: 512
     width: 512
-episod:
-    soundcloud: "https://soundcloud.com/underjs/undefined"
-    yandex: "https://music.yandex.ru/album/8291062/track/undefined"
-    apple: "https://podcasts.apple.com/ru/podcast/undefined"
-    youtube: "undefined"
 guests:
   - Роман Дворнов
 ---

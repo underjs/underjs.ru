@@ -1,7 +1,7 @@
 ---
 layout: guest
 name: Роман Дворнов
-avatar: https://images.ctfassets.net/oxjq45e8ilak/5RX2pPMAtihvlNYJjFaTHR/2ac69e4d286c629facb368cbc3844d0b/Dvornov.jpg
+avatar: /assets/images/Dvornov.jpg
 twitter: rdvornov
 position: TeamLead в Wrike
 ---
