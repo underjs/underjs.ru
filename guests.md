@@ -20,7 +20,7 @@ permalink: /guests/
   <ul class="guests">
     {% for guest in site.guests %}
       <li class="guest">
-        <a href="{{guest.id}}">
+        <a href="{{guest.id}}.html">
           <img src="{{guest.avatar}}">
           <h3>{{guest.name}}</h3>
         </a>
