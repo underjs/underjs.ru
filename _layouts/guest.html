@@ -31,4 +31,18 @@ layout: default
     <article class="row flex-column">
         {{ content }}
     </article>
+
+    <h2>Выпуски с гостем:</h2>
+
+    <ul>
+        {% for post in site.posts %}
+            {% if post.guests contains page.name  %}
+            <li>
+                <a href="{{post.id}}.html">
+                    <h3>{{ post.title }}</h3>
+                </a>
+            </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
 </div>
