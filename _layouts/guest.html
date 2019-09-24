@@ -18,9 +18,28 @@ layout: default
     <aside>
       <h2>{{page.name}}</h2> 
       <h3>{{page.position}}</h3>
+
       {% if page.twitter %}
       <a href="https://twitter.com/{{page.twitter}}" target="_blank">
         <i class="fa fa-twitter"></i> {{page.twitter}}
+      </a>
+      {% endif %}
+
+      {% if page.github %}
+      <a href="https://github.com/{{page.lahmatiy}}" target="_blank">
+        <i class="fa fa-github"></i> {{page.github}}
+      </a>
+      {% endif %}
+
+      {% if page.youtube %}
+      <a href="https://www.youtube.com/channel/{{page.youtube}}" target="_blank">
+        <i class="fa fa-github"></i> youtube
+      </a>
+      {% endif %}
+
+      {% if page.site %}
+      <a href="{{page.site}}" target="_blank">
+        {{page.site}}
       </a>
       {% endif %}
     </aside>
