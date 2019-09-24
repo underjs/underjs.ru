@@ -17,6 +17,8 @@ image:
     path: https://underjs.ru/assets/images/logo-512px.jpg
     height: 512
     width: 512
+episod:
+    soundcloud: "https://soundcloud.com/underjs/5-razgovor-s-romanom-dvornovym-pro-open-source-i-vkusnye-detali-web-lampovyy"
 guests:
   - Роман Дворнов
 ---
