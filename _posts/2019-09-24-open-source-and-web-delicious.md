@@ -1,0 +1,42 @@
+---
+layout: podcast
+title: "#5 - Разговор с Романом Дворновым про Open-Source и вкусные детали Web [Ламповый]"
+date: 2019-09-24 16:00:00 +0300
+categories: podcast
+guid: "B0494A60-96C8-4692-BF47-F5AD32E8200C"
+released: true
+duration: "48:55"
+m4a: https://files.underjs.ru/5/episod.m4a
+m4a_length: 47506783
+mp3: https://files.underjs.ru/5/episod.mp3
+ogg: https://files.underjs.ru/5/episod.ogg
+opus: https://files.underjs.ru/5/episod.opus
+seo:
+    type: OnDemandEvent
+image:
+    path: https://underjs.ru/assets/images/logo-512px.jpg
+    height: 512
+    width: 512
+guests:
+  - Роман Дворнов
+---
+
+> Пятый выпуск! Ламповый подкаст с Романом Дворновым [@rdvornov](https://twitter.com/rdvornov) (автор discoveryjs/jora/basis.js/CSSTree и других инструментов). Обсуждаем Open-Source, проекты, развитие в IT и наш любимый Web.
+
+- [00:01:10 Open-Source и зачем он нужен?](#)
+- [00:07:30 Внутринности Discovery.js](#) <sup>[1](#note1)</sup>
+- [00:12:10 Оптимизации и деоптимизации нашего JavaScript](#) <sup>[2](#note2)</sup>
+- [00:23:29 Когда нужно заниматься оптимизациями?](#)
+- [00:25:30 Что почитать или посмотреть про оптимизации](#)
+- [00:28:20 Куда пропадают разрабтчики после 30?](#)
+- [00:30:20 Инженер/Программист/Разработчик](#)
+- [00:32:24 Должен ли JavaScript-разработчик знать все?](#)
+- [00:40:31 Инструментарий и окружение](#)
+- [00:44:05 Какие вопросы Роман Дворнов задает на собеседовании?](#) <sup>[3](#note3)</sup>
+
+# Ссылки из осбуждений
+
+- <b id="note1">1</b> [discoveryjs](https://github.com/discoveryjs) / [discoveryjs/jora](https://github.com/discoveryjs/jora)
+- <b id="note2">2</b> [Подборка V8 tool on discovery от Ромы](https://gist.github.com/lahmatiy/5265d519769f0081fed4f94f673ad6df) / [deoptigate](https://github.com/thlorenz/deoptigate) / [Блог Вячеслава Егорова](https://mrale.ph/)
+- <b id="note3">3</b> [What forces layout / reflow @paulirish](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
+
