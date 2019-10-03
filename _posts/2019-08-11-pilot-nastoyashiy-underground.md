@@ -42,7 +42,7 @@ episod:
 - [01:04:42 - Про BeerJS Summit 2019](#)
 - [01:09:39 - Ближайшие конференции](#)
 
-# Ссылки из осбуждений
+# Ссылки из обсуждений
 
 - <b id="note1">1</b> [Hermes: An open source JavaScript engine optimized for mobile apps, starting with React Native](https://code.fb.com/android/hermes/)
 - <b id="note2">2</b> [A New Bytecode Format for JavaScriptCore](https://webkit.org/blog/9329/a-new-bytecode-format-for-javascriptcore/)

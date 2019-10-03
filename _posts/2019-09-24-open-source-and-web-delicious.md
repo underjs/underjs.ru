@@ -39,7 +39,7 @@ guests:
 - [00:40:31 Инструментарий и окружение](#)
 - [00:44:05 Какие вопросы Роман Дворнов задает на собеседовании?](#) <sup>[3](#note3)</sup>
 
-# Ссылки из осбуждений
+# Ссылки из обсуждений
 
 - <b id="note1">1</b> [discoveryjs](https://github.com/discoveryjs) / [discoveryjs/jora](https://github.com/discoveryjs/jora)
 - <b id="note2">2</b> [Подборка V8 tool on discovery от Ромы](https://gist.github.com/lahmatiy/5265d519769f0081fed4f94f673ad6df) / [deoptigate](https://github.com/thlorenz/deoptigate) / [Блог Вячеслава Егорова](https://mrale.ph/)
