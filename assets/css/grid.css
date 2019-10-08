@@ -169,7 +169,7 @@ header .emoji .ltr {
     }
 }
 
-#nayan {
+#nyan {
     position: fixed;
     right: 0;
     bottom: 0;
@@ -177,8 +177,8 @@ header .emoji .ltr {
     width: 256px;
 }
 
-.nayan-active {
-    animation: nayan-frames 10s steps(100) infinite;
+.nyan-active {
+    animation: nyan-frames 10s steps(100) infinite;
 }
 
 .other-players {
@@ -254,7 +254,7 @@ header .emoji .ltr {
   min-width: 200px;
 }
 
-@-webkit-keyframes nayan-frames {
+@-webkit-keyframes nyan-frames {
     0% {
         left: 0;
     }
@@ -290,7 +290,7 @@ header .emoji .ltr {
 }
 
 @media screen and (max-width: 970px) {
-  #nayan {
+  #nyan {
         display: none;
   }
 }
