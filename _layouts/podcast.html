@@ -76,3 +76,20 @@ layout: default
 
     {% include disqus.html %}
 </div>
+
+<script>
+    const widget = SC.Widget(document.getElementById("sc-widget-0"))
+    const timingLinks = Array.from(document.querySelectorAll("[data-timing]"))
+
+    timingLinks.forEach(tl =>
+        tl.onclick = event => {
+            const timing = toMs(tl.getAttribute('data-timing'))
+            widget.seekTo(timing);
+        }
+    )
+
+    function toMs(timing) {
+        const [hh, mm, ss] = timing.split(':').map(Number)
+        return hh * 3600000 + mm * 60000 + ss * 1000
+    }
+</script>
