@@ -1,13 +1,13 @@
 ---
 layout: podcast
-title: "#6 - Деоптимизация React с V8"
-date: 2019-10-08 16:00:00 +0300
+title: "#6 - Деоптимизация React внутри V8, preventExtension курильщика"
+date: 2019-10-08 14:00:00 +0300
 categories: podcast
 guid: "9F420DEB-83E0-4519-9495-B7BEEC71FEFA"
 released: true
-duration: "48:55"
+duration: "01:01:46"
 m4a: https://files.underjs.ru/6/episod.m4a
-m4a_length: 47506783
+m4a_length: 59996895
 mp3: https://files.underjs.ru/6/episod.mp3
 ogg: https://files.underjs.ru/6/episod.ogg
 opus: https://files.underjs.ru/6/episod.opus
@@ -17,6 +17,9 @@ image:
     path: https://underjs.ru/assets/images/logo-512px.jpg
     height: 512
     width: 512
+episod:
+    soundcloud: "https://soundcloud.com/underjs/6-deoptimizatsiya-react-vnutri-v8"
+    youtube: "https://www.youtube.com/watch?v=tPFkmSy8sKA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 ---
 
 > Шестовый выпуск! Поговорим про грядущий TypeScript 3.7, баг приводящий к деоптимизация внутри V8 на примере React и многом другом.
