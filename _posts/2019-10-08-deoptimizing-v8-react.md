@@ -1,0 +1,39 @@
+---
+layout: podcast
+title: "#6 - Деоптимизация React с V8"
+date: 2019-10-08 16:00:00 +0300
+categories: podcast
+guid: "9F420DEB-83E0-4519-9495-B7BEEC71FEFA"
+released: true
+duration: "48:55"
+m4a: https://files.underjs.ru/6/episod.m4a
+m4a_length: 47506783
+mp3: https://files.underjs.ru/6/episod.mp3
+ogg: https://files.underjs.ru/6/episod.ogg
+opus: https://files.underjs.ru/6/episod.opus
+seo:
+    type: OnDemandEvent
+image:
+    path: https://underjs.ru/assets/images/logo-512px.jpg
+    height: 512
+    width: 512
+---
+
+> Шестовый выпуск! Поговорим про грядущий TypeScript 3.7, баг приводящий к деоптимизация внутри V8 на примере React и многом другом.
+
+- [00:00:44 TypeScript 3.7](#) <sup>[1](#note1)</sup>
+- [00:10:56 Деоптимизация React с V8](#) <sup>[2](#note2)</sup>
+- [00:18:12 "Светлое" будующее PWA с FUGU](#) <sup>[3](#note3)</sup>
+- [00:31:18 DNS-over-HTTPS лихорадка](#) <sup>[4](#note4)</sup>
+- [00:39:19 Умный дом на JavaScript?](#) <sup>[5](#note5)</sup>
+- [00:49:21 LongestJS - эксперимент удался?](#) <sup>[6](#note6)</sup>
+- [00:57:30 Ближайшие конференции](#)
+
+# Ссылки из обсуждений
+
+- <b id="note1">1</b> [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/)
+- <b id="note2">2</b> [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+- <b id="note3">3</b> [Unlocking new capabilities for the web](https://developers.google.com/web/updates/capabilities)
+- <b id="note4">4</b> [Почему Mozilla назвали «главным злодеем интернета»?](https://m.habr.com/ru/company/globalsign/blog/459739/)
+- <b id="note5">5</b> [Яндекс: умный дом по-взрослому](https://m.habr.com/ru/post/465537/)
+- <b id="note6">6</b> [#01 LongestJS: Денис Колесников — npm understand --with-improves](https://www.youtube.com/watch?v=Cz6bQw1f23s)
