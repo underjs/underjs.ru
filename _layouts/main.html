@@ -39,22 +39,22 @@ layout: default
     </ul>
 </div>
 
-<img src="nayan-cat.jpg" id="nayan" />
+<img src="/assets/images/nyan-cat.gif" id="nyan" />
 
 <script>
-    var nayan = document.getElementById('nayan');
+    var nyan = document.getElementById('nyan');
     var enabled = false;
 
-    nayan.onclick = function () {
+    nyan.onclick = function () {
         if (enabled) {
             return;
         }
 
-        nayan.className = "nayan-active";
+        nyan.className = "nyan-active";
         enabled = true;
 
         setTimeout(function () {
-            nayan.className = "";
+            nyan.className = "";
             enabled = false;
         }, 8000);
     }
