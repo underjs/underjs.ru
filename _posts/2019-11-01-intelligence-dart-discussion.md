@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "#6 - Деоптимизация React внутри V8, preventExtension курильщика"
+title: "#7 - Интеллигентные разговоры про Dart"
 date: 2019-10-08 14:00:00 +0300
 categories: podcast
 guid: "9F420DEB-83E0-4519-9495-B7BEEC71FEFA"
@@ -20,6 +20,8 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/6-deoptimizatsiya-react-vnutri-v8"
     youtube: "https://www.youtube.com/watch?v=tPFkmSy8sKA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+guests:
+   - Алексей Золотых
 ---
 
 > Шестой выпуск! Поговорим про грядущий TypeScript 3.7, баг приводящий к деоптимизации внутри V8 на примере React и многом другом.
