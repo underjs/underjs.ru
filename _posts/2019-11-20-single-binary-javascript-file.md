@@ -1,16 +1,16 @@
 ---
 layout: podcast
 title: "#8 - Один бинарник для JavaScript?"
-date: 2019-11-04 14:00:00 +0300
+date: 2019-11-20 12:00:00 +0300
 categories: podcast
-guid: "C8E2C1B3-1C9C-4BB7-9F62-770A297A9A26"
+guid: "29B2982E-9536-4064-8F92-B186EAC0D19B"
 released: true
-duration: "01:11:15"
-m4a: https://files.underjs.ru/7/episod.m4a
-m4a_length: 69203245
-mp3: https://files.underjs.ru/7/episod.mp3
-ogg: https://files.underjs.ru/7/episod.ogg
-opus: https://files.underjs.ru/7/episod.opus
+duration: "01:00:23"
+m4a: https://files.underjs.ru/8/episod.m4a
+m4a_length: 58654641
+mp3: https://files.underjs.ru/8/episod.mp3
+ogg: https://files.underjs.ru/8/episod.ogg
+opus: https://files.underjs.ru/8/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -18,17 +18,21 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/7-razgovor-s-alekseem-zolotykh-pro-dart-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=CP6NO-XEuls&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    soundcloud: "https://soundcloud.com/underjs/8-odin-binarnik-dlya-javascript"
+    youtube: "https://www.youtube.com/watch?v=izlsGc7LNY8"
 ---
 
+> Восьмой выпуск! Поговорим про грядущий Deno 1.0, ByteCode Alliance и наше впечатления от прощедшей HolyJS Moscow 2019.
+
 - 🆕 [00:00:52 Deno 1.0](#){:data-timing="00:00:52"} <sup>[1](#note1)</sup>
-- 🤔 [00:11:52 FFI vs node-gyp](#){:data-timing="00:11:52"} <sup>[1](#note1)</sup>
-- 🆕 [00:21:43 Chrome будет клеймить сайты](#){:data-timing="00:21:43"}
-- 🆕 [00:30:43 ByteCode Alliance](#){:data-timing="00:30:43"}
-- 🤔 [00:43:26 Впечатления после HolyJS](#){:data-timing="00:43:26"}
+- 🤔 [00:11:52 FFI vs node-gyp](#){:data-timing="00:11:52"}
+- 🆕 [00:21:43 Chrome будет клеймить сайты](#){:data-timing="00:21:43"} <sup>[2](#note2)</sup>
+- 🆕 [00:30:43 ByteCode Alliance](#){:data-timing="00:30:43"} <sup>[3](#note3)</sup>
+- 🤔 [00:43:26 Впечатления после HolyJS Moscow 2019](#){:data-timing="00:43:26"} <sup>[4](#note4)</sup>
 
 # Ссылки из обсуждений
 
-- <b id="note1">1</b> [Announcing Dart 2.5: Super-charged development](https://medium.com/dartlang/announcing-dart-2-5-super-charged-development-328822024970)
-- <b id="note2">2</b> [Dart on the Server](https://dart-lang.github.io/server/server.html)
+- <b id="note1">1</b> [Major features necessary for 1.0 ](https://github.com/denoland/deno/issues/2473)
+- <b id="note2">2</b> [Chrome начнёт помечать быстрые и медленные сайты](https://www.opennet.ru/opennews/art.shtml?num=51844)
+- <b id="note3">3</b> [Bytecode Alliance](https://bytecodealliance.org/)
+- <b id="note4">4</b> [HolyJS Moscow 2019](https://holyjs-moscow.ru/) :: [Контрактное программирование как средство, а не цель](https://holyjs-moscow.ru/2019/msk/talks/qp9sdze3lxb7vlru5kwis/) :: [Может ли компьютер молиться на благо всех живых существ? Молитва на JavaScript и WebGL](https://holyjs-moscow.ru/2019/msk/talks/4yu3tnve11pvazkz9rk9hg/)
