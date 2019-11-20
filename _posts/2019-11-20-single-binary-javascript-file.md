@@ -26,9 +26,9 @@ episod:
 
 - 🆕 [00:00:52 Deno 1.0](#){:data-timing="00:00:52"} <sup>[1](#note1)</sup>
 - 🤔 [00:11:52 FFI vs node-gyp](#){:data-timing="00:11:52"}
-- 🆕 [00:21:43 Chrome будет клеймить сайты](#){:data-timing="00:21:43"} <sup>[2](#note2)</sup>
-- 🆕 [00:30:43 ByteCode Alliance](#){:data-timing="00:30:43"} <sup>[3](#note3)</sup>
-- 🤔 [00:43:26 Впечатления после HolyJS Moscow 2019](#){:data-timing="00:43:26"} <sup>[4](#note4)</sup>
+- 🆕 [00:21:15 Chrome будет клеймить сайты](#){:data-timing="00:21:15"} <sup>[2](#note2)</sup>
+- 🆕 [00:30:32 ByteCode Alliance](#){:data-timing="00:30:32"} <sup>[3](#note3)</sup>
+- 🤔 [00:42:38 Впечатления после HolyJS Moscow 2019](#){:data-timing="00:42:26"} <sup>[4](#note4)</sup>
 
 # Ссылки из обсуждений
 
