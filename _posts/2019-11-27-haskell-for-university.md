@@ -18,11 +18,15 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy/s-Q2kKG"
+    soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy"
     youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io"
+guests:
+  - Виталий Брагилевский
 ---
 
-> Девятый выпуск! Ламповый подкаст с Виталием Брагилевским [@_bravit](https://twitter.com/_bravit). Обсуждаем современное образование и Haskell. У нашего гостя есть крутейщий канал на [Youtube](https://www.youtube.com/user/bravit111) ;)
+> Девятый выпуск! Ламповый подкаст с Виталием Брагилевским [@_bravit](https://twitter.com/_bravit). Обсуждаем современное образование и Haskell. 
+
+P.S У нашего гостя есть крутейщий канал на [Youtube](https://www.youtube.com/user/bravit111) ;) А также он автор книги - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 
 - 🤔 [00:01:45 Как готовят инженеров в современных ВУЗах?](#){:data-timing="00:01:45"}
 - 🤔 [00:11:32 Почему ВУЗам не выгодно, что бы преподаватель обучался программированию?](#){:data-timing="00:11:32"}
@@ -32,7 +36,3 @@ episod:
 - 🤔 [00:37:50 Пытаются ли российские компании попасть в комитет Haskell?](#){:data-timing="00:37:50"}
 - 🤔 [00:40:00 Стоит ли учить Haskell и парадигму ФП?](#){:data-timing="00:40:00"}
 - 🤔 [00:43:35 Вопрос от Цинкового Прода: Rust хороший язык?](#){:data-timing="00:43:35"}
-
-# Ссылки из обсуждений
-
-- <b id="note1">1</b> [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
