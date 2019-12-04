@@ -1,7 +1,7 @@
 ---
 layout: podcast
-title: "#10 - Разговор с Артемом Арутюняном про state managment и "ужасный" TypeScript [Ламповый]"
-date: 2019-12-03 12:00:00 +0300
+title: '#10 - Разговор с Артемом Арутюняном про State managment и "ужасный" TypeScript [Ламповый]'
+date: 2019-12-04 09:00:00 +0300
 categories: podcast
 guid: "21A012BF-8968-4EB9-BA73-9EB48BDF7FF7"
 released: true
