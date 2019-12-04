@@ -19,13 +19,13 @@ image:
     width: 512
 episod:
     soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io"
+    youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Виталий Брагилевский
 ---
 
 > Девятый выпуск! Ламповый подкаст с Виталием Брагилевским [@_bravit](https://twitter.com/_bravit). Обсуждаем современное образование и Haskell. 
-
+    
 P.S У нашего гостя есть крутейший канал на [Youtube](https://www.youtube.com/user/bravit111) ;) А также он автор книги - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 
 - 🤔 [00:01:45 Как готовят инженеров в современных ВУЗах?](#){:data-timing="00:01:45"}

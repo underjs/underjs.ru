@@ -19,7 +19,7 @@ image:
     width: 512
 episod:
     soundcloud: "https://soundcloud.com/underjs/10-razgovor-s-artemom-arutyunyanom-pro-state-managment-i-uzhasnyy-typescript-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=FwcO_L9clfA"
+    youtube: "https://www.youtube.com/watch?v=FwcO_L9clfA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Артём Арутюнян
 ---
