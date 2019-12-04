@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io"
+    soundcloud: "https://soundcloud.com/underjs/10-razgovor-s-artemom-arutyunyanom-pro-state-managment-i-uzhasnyy-typescript-lampovyy"
+    youtube: "https://www.youtube.com/watch?v=FwcO_L9clfA"
 guests:
   - Артём Арутюнян
 ---
