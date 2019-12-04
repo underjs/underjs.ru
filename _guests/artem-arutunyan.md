@@ -1,7 +1,7 @@
 ---
 layout: guest
 name: Артём Арутюнян
-avatar: /assets/images/Arutunyan.jpeg
+avatar: /assets/images/Arutunyan.jpg
 twitter: art_al_ar
 position: Frontend Developer в dbeaver
 ---
