@@ -26,9 +26,15 @@ guests:
 
 > Десятый выпуск! Ламповый подкаст с Артёмом Арутюняном [@art_al_ar](https://twitter.com/art_al_ar). Обсуждаем State managment и "ужасный" TypeScript.
 
-- 🤔 [00:01:44 Какую задачу решает Reatom?](#){:data-timing="00:01:44"}
-- 🤔 [00:08:18 State Managment vs Data Base?](#){:data-timing="00:08:18"}
+- 🤔 [00:01:44 Какую задачу решает Reatom?](#){:data-timing="00:01:44"} <sup>[1](#note1)</sup>
+- 🤔 [00:08:18 State Managment vs Data Base?](#){:data-timing="00:08:18"} <sup>[2](#note2)</sup>
 - 🤔 [00:13:50 Зачем учить Redux Saga? (незачем, учите Redux Observables)](#){:data-timing="00:13:50"}
 - 🤔 [00:16:02 Нужен ли TypeScript рантайм и как погибают open-source проекты?](#){:data-timing="00:16:02"}
 - 🤔 [00:23:31 И тут ворвался GraphQL](#){:data-timing="00:23:31"}
-- 🤔 [00:28:48 Продолжаем экзекуцию TS: Плагины, контракты, валидаторы?](#){:data-timing="00:28:48"}
+- 🤔 [00:28:48 Продолжаем экзекуцию TS: Плагины, контракты, валидаторы?](#){:data-timing="00:28:48"} <sup>[3](#note3)</sup>
+
+# Ссылки из обсуждений
+
+- <b id="note1">1</b> [Reatom is declarative and reactive state manager](https://github.com/artalar/reatom)
+- <b id="note2">2</b> [State Managers list](https://gist.github.com/artalar/e5e8a7274dfdfbe9d36c9e5ec22fc650)
+- <b id="note3">3</b> [Runtypes](https://github.com/pelotom/runtypes)
