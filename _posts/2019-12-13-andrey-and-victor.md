@@ -1,11 +1,16 @@
 ---
 layout: podcast
-title: "#11 - Виктор Вершанский и Андрей Печкуров [Ламповый]"
-date: 2019-12-01 12:00:00 +0300
+title: "#11 - Виктор Вершанский и Андрей Печкуров разговоры о NodeJS [Ламповый]"
+date: 2019-12-13 09:00:00 +0300
 categories: podcast
-guid: "9FDCABEB-3711-4655-A165-21DA241E8D42"
+guid: "EBF06628-0000-47C4-B2C5-424706EE5434"
 released: true
-duration: "00:49:39"
+duration: "00:37:30"
+m4a: https://files.underjs.ru/11/episod.m4a
+m4a_length: 36432141
+mp3: https://files.underjs.ru/11/episod.mp3
+ogg: https://files.underjs.ru/11/episod.ogg
+opus: https://files.underjs.ru/11/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -19,6 +24,8 @@ guests:
   - Андрей Печкуров
   - Виктор Вершанский
 ---
+
+> Одиннадцатый выпуск! Ламповый подкаст с Виктором Вершанским [@went_out](https://twitter.com/went_out) и Андреем Печкуровым [@AndreyPechkurov](https://twitter.com/AndreyPechkurov). Обсуждаем NodeJS.
 
 - 🤔 [00:00:35 Интересный опыт гостей в Node.js](#){:data-timing="00:00:35"}
 - 🤔 [00:03:35 Дмитрий Пацура атакует Node.js аргументами](#){:data-timing="00:03:35"}
