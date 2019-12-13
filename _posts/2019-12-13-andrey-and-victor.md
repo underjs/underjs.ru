@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "#11 - Виктор Вершанский и Андрей Печкуров разговоры о NodeJS [Ламповый]"
+title: "#11 - Виктор Вершанский и Андрей Печкуров разговоры про NodeJS [Ламповый]"
 date: 2019-12-13 09:00:00 +0300
 categories: podcast
 guid: "EBF06628-0000-47C4-B2C5-424706EE5434"
@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io"
+    soundcloud: "https://soundcloud.com/underjs/11-viktor-vershanskiy-i-andrey-pechkurov-lampovyy"
+    youtube: "https://www.youtube.com/watch?v=fcVTofbfx2Q&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Андрей Печкуров
   - Виктор Вершанский
@@ -31,6 +31,10 @@ guests:
 - 🤔 [00:03:35 Дмитрий Пацура атакует Node.js аргументами](#){:data-timing="00:03:35"}
 - 🤔 [00:10:03 Как жить с Node.js и большими командами?](#){:data-timing="00:10:03"}
 - 🤔 [00:17:11 Что не стоит писать на Node.js?](#){:data-timing="00:17:11"}
-- 🤔 [00:19:05 Проблема 5мс, асинхронности и логов](#){:data-timing="00:19:05"}
+- 🤔 [00:19:05 Проблема 5мс, асинхронности и логов](#){:data-timing="00:19:05"} <sup>[1](#note1)</sup>
 - 🤔 [00:29:43 Многопоточнейший Node.js](#){:data-timing="00:29:43"}
 - 🤔 [00:35:53 Рекомендации от гостей](#){:data-timing="00:35:53"}
+
+# Ссылки из обсуждений
+
+- <b id="note1">1</b> [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
