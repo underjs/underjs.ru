@@ -1,16 +1,16 @@
 ---
 layout: podcast
 title: "#12 - Денис Радин про конференции и WebGL [Ламповый]"
-date: 2019-12-13 09:00:00 +0300
+date: 2019-12-20 12:00:00 +0300
 categories: podcast
-guid: "EBF06628-0000-47C4-B2C5-424706EE5434"
+guid: "761F8756-EB86-456F-82EC-63BC99E4410E"
 released: true
-duration: "00:37:30"
-m4a: https://files.underjs.ru/11/episod.m4a
-m4a_length: 36432141
-mp3: https://files.underjs.ru/11/episod.mp3
-ogg: https://files.underjs.ru/11/episod.ogg
-opus: https://files.underjs.ru/11/episod.opus
+duration: "00:51:25"
+m4a: https://files.underjs.ru/12/episod.m4a
+m4a_length: 49944897
+mp3: https://files.underjs.ru/12/episod.mp3
+ogg: https://files.underjs.ru/12/episod.ogg
+opus: https://files.underjs.ru/12/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -39,8 +39,5 @@ guests:
 
 # Ссылки из обсуждений
 
-- <b id="note1">1</b> [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
-- <b id="note2">2</b> [Event Loop and the Big Picture — NodeJS Event Loop Part 1](https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810)
-- <b id="note3">3</b> [Crossing the JS/C++ Boundary — Advanced NodeJS Internals — Part 1](https://blog.insiderattack.net/crossing-the-js-c-boundary-advanced-nodejs-internals-part-1-cb52957758d8)
-- <b id="note4">4</b> [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
-- <b id="note5">5</b> [Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
+- <b id="note1">1</b> [HTML-GL](https://github.com/PixelsCommander/HTML-GL)
+- <b id="note2">2</b> [WebGPU](https://www.w3.org/community/gpu/)
