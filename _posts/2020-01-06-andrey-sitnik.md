@@ -1,16 +1,16 @@
 ---
 layout: podcast
 title: "#13 - Андрей Ситник про Logux, PostCSS и человечный фронтенд [Ламповый]"
-date: 2019-12-20 12:00:00 +0300
+date: 2020-01-06 12:00:00 +0300
 categories: podcast
-guid: "761F8756-EB86-456F-82EC-63BC99E4410E"
+guid: "808FAC8E-D001-4E8F-8D1C-1F339A055E79"
 released: true
-duration: "00:51:25"
-m4a: https://files.underjs.ru/12/episod.m4a
-m4a_length: 49944897
-mp3: https://files.underjs.ru/12/episod.mp3
-ogg: https://files.underjs.ru/12/episod.ogg
-opus: https://files.underjs.ru/12/episod.opus
+duration: "01:09:29"
+m4a: https://files.underjs.ru/13/episod.m4a
+m4a_length: 67483477
+mp3: https://files.underjs.ru/13/episod.mp3
+ogg: https://files.underjs.ru/13/episod.ogg
+opus: https://files.underjs.ru/13/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/12-denis-radin-pro-konferentsii-i-webgl-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=Wd0wAzY6q4o&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    soundcloud: "https://soundcloud.com/underjs/13-andrey-sitnik-pro-logux-postcss-i-chelovechnyy-frontend-lampovyy"
+    youtube: "https://www.youtube.com/watch?v=8QmWDrY5mJk&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Андрей Ситник
 ---
