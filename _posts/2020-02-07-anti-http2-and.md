@@ -1,6 +1,6 @@
 ---
 layout: podcast
-title: "#14 UnderHTML - пилотный выпуск"
+title: "#14 - UnderHTML - пилотный выпуск"
 date: 2020-01-07 12:00:00 +0300
 categories: podcast
 guid: "957E6506-C2AE-4C60-BD24-BDD455FC7467"
