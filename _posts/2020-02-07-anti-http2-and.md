@@ -1,16 +1,16 @@
 ---
 layout: podcast
-title: "#15 - Андрей Ситник про Logux, PostCSS и человечный фронтенд [Ламповый]"
-date: 2020-01-06 12:00:00 +0300
+title: "#14 UnderHTML - пилотный выпуск"
+date: 2020-01-07 12:00:00 +0300
 categories: podcast
-guid: "808FAC8E-D001-4E8F-8D1C-1F339A055E79"
+guid: "957E6506-C2AE-4C60-BD24-BDD455FC7467"
 released: true
-duration: "01:09:29"
-m4a: https://files.underjs.ru/13/episod.m4a
-m4a_length: 67483477
-mp3: https://files.underjs.ru/13/episod.mp3
-ogg: https://files.underjs.ru/13/episod.ogg
-opus: https://files.underjs.ru/13/episod.opus
+duration: "01:00:43"
+m4a: https://files.underjs.ru/14/episod.m4a
+m4a_length: 58979567
+mp3: https://files.underjs.ru/14/episod.mp3
+ogg: https://files.underjs.ru/14/episod.ogg
+opus: https://files.underjs.ru/14/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -22,7 +22,7 @@ episod:
     youtube: "https://www.youtube.com/watch?v=8QmWDrY5mJk&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 ---
 
-> Тринадцатый выпуск! Ламповый подкаст с Андреем Ситником [@andrey_sitnik](https://twitter.com/andrey_sitnik). Обсуждаем Open-Source.
+> Четырнадцатый выпуск! Сегодня начинаем говорить про HTML, доброго времени суток с вами UnderHTML подкаст.
 
 - 🤔 [00:00:42 Климатное лицо и anti-http2](#){:data-timing="00:00:42"}
 - 🆕 [00:10:05 DXVK 1.5.1 поверх API Vulkan](#){:data-timing="00:10:05"}
