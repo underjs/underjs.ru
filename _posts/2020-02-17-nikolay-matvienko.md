@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "#15 - Плантации, озера и Node.js c Николаем Матвиенко"
-date: 2020-01-17 12:00:00 +0300
+date: 2020-02-17 12:00:00 +0300
 categories: podcast
 guid: "529A6D55-7FB5-4DFD-B399-2B9D92635B2E"
 released: true
