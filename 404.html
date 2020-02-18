@@ -3,22 +3,40 @@ layout: page
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
+
   h1 {
     margin: 30px 0;
     font-size: 4em;
     line-height: 1;
     letter-spacing: -1px;
   }
+
+  .text-center {
+    text-align: center;
+  }
 </style>
 
-<div class="container">
-  <h1>404</h1>
+<div class="row row-center text-center">
+  <div>
+    <h1>404</h1>
+  
+    <p><strong>Ничего не найдено :(</strong></p>
+    <p>Наверное битая ссылка, такое случается...</p>
+  </div>
+</div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+<div class="posts">
+  <h2>Последние 3 выпуска</h2>
+  <div class="row row-center">
+    <ul>
+        {% assign first_posts = site.posts | slice:0, 3 %}
+        {% for post in first_posts %}
+        <li>
+            <h2>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+  </div>
 </div>
