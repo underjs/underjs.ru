@@ -41,3 +41,6 @@ guests:
 - <b id="note1">1</b> [Николай Матвиенко — Декомпозиция Main Thread в Node.js для увеличения пропускной способности](https://www.youtube.com/watch?v=Mfz1_blLl9Q)
 - <b id="note2">2</b> [Николай Матвиенко – Поиск и устранение неисправностей Node.js-приложений под капотом](https://www.youtube.com/watch?v=_qzFJ2MPVWQ)
 - <b id="note3">3</b> [Николай Матвиенко — Обработка озера данных на Node.js в serverless-архитектуре](https://www.youtube.com/watch?v=FOCDEk-OLTI)
+- <b id="note4">4</b> [The best serverless hero](https://theburningmonk.com/)
+- <b id="note5">5</b> [AWS blog: compute](https://aws.amazon.com/blogs/compute/)
+- <b id="note6">6</b> [AWS blog: Data Lake](https://aws.amazon.com/blogs/big-data/tag/data-lake/)
