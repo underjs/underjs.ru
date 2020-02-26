@@ -40,3 +40,4 @@ guests:
 - <b id="note2">2</b> [PostCSS](https://github.com/postcss/postcss)
 - <b id="note3">3</b> [Доклад Майкла Сабоффа про JavaScript Core](https://www.youtube.com/watch?v=mtVBAcy7AKA)
 - <b id="note4">4</b> [Storeon](https://github.com/storeon/storeon)
+- <b id="note5">5</b> [Как работает MobX изнутри и сравнение его с Redux](https://habr.com/ru/post/340592/)
