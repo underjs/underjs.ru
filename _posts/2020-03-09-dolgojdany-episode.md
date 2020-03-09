@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/15-plantatsii-ozera-i-nodejs-c-nikolaem-matvienko"
-    youtube: "https://www.youtube.com/watch?v=QOMhxA1kXQc&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    soundcloud: "https://soundcloud.com/underjs/16-underphp-dolgozhdannyy-vypusk-s-znprod"
+    youtube: "https://www.youtube.com/watch?v=N5el7JjodPo&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Цинковый Прод
 ---
