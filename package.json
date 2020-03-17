@@ -1,0 +1,23 @@
+{
+  "name": "underjs.ru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "yaspeller-ci": "^1.0.2"
+  },
+  "scripts": {
+    "check": "yaspeller-ci *.md _posts/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/underjs/underjs.ru.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/underjs/underjs.ru/issues"
+  },
+  "homepage": "https://github.com/underjs/underjs.ru#readme"
+}

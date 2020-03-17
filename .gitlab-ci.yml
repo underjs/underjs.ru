@@ -1,9 +1,20 @@
 
 stages:
   - build
+  - image
 
 site:
   stage: build
+  script:
+    - npm install yaspeller-ci --save-dev
+    - yaspeller-ci *.md
+  only:
+    - master
+  tags:
+    - docker
+
+site:
+  stage: image
   image:
     name: gcr.io/kaniko-project/executor:debug
     entrypoint: [""]
