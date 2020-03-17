@@ -8,7 +8,7 @@ spell:
   image: node:13.10-alpine
   script:
     - npm ci
-    - yaspeller-ci *.md
+    - npm run check
   tags:
     - docker
 
