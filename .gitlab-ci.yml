@@ -3,13 +3,11 @@ stages:
   - build
   - image
 
-site:
+spell:
   stage: build
   script:
-    - npm install yaspeller-ci --save-dev
+    - npm install
     - yaspeller-ci *.md
-  only:
-    - master
   tags:
     - docker
 
