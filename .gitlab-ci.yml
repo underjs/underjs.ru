@@ -5,8 +5,9 @@ stages:
 
 spell:
   stage: build
+  image: node:13.10-alpine
   script:
-    - npm install
+    - npm ci
     - yaspeller-ci *.md
   tags:
     - docker
