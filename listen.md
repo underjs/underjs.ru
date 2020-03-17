@@ -16,7 +16,7 @@ permalink: /listen/
 ::
 <a href="https://podcasts.apple.com/ru/podcast/underjs-podcast/id1475405773" target="_blank">iTunes</a>
 ::
-<a href="https://www.youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7" target="_blank">Youtube</a>
+<a href="https://www.youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7" target="_blank">YouTube</a>
 ::
 <a href="https://podcasts.google.com/?feed=aHR0cHM6Ly91bmRlcmpzLnJ1L2l0dW5lcy54bWw%3D" target="_blank">Google</a>
 ::
