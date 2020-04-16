@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "#19 - Cypress, Material UI и просто про OpenSource"
-date: 2020-04-16 20:00:00 +0300
+date: 2020-04-17 11:00:00 +0300
 categories: podcast
 guid: "0D9B7245-42F2-462B-BA81-8829DAC748BC"
 released: true
@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/18-yarn2-i-bag-dlinoyu"
-    youtube: "https://www.youtube.com/watch?v=CFtcq4Uo5pA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    soundcloud: "https://soundcloud.com/underjs/19-cypress-material-ui-i-prosto-pro-opensource/s-dEIybiE0vax"
+    youtube: "https://www.youtube.com/watch?v=yMOKfnQmhEw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 ---
 
 > Девятнадцатый выпуск! Ламповый выпуск клуба анонимных opensource-еров с Дмитрием Коваленко [@dmtrKovalenko](https://twitter.com/dmtrKovalenko) в гостях.
