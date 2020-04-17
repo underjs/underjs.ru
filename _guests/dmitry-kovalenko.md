@@ -7,4 +7,4 @@ github: dmtrKovalenko
 position: Material-UI core team member
 ---
 
-### Material-UI core team member, бывший разработчик Cypress.io. e2e евангелист, опен-сорсер на стероидах.
+### Material-UI core team member, бывший разработчик Cypress.io. e2e евангелист, опенсорсер на стероидах.
