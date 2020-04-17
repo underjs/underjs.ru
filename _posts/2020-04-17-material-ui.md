@@ -20,6 +20,8 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/19-cypress-material-ui-i-prosto-pro-opensource/s-dEIybiE0vax"
     youtube: "https://www.youtube.com/watch?v=yMOKfnQmhEw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+guests:
+  - Дмитрий Коваленко
 ---
 
 > Девятнадцатый выпуск! Ламповый выпуск клуба анонимных opensource-еров с Дмитрием Коваленко [@dmtrKovalenko](https://twitter.com/dmtrKovalenko) в гостях.
@@ -30,7 +32,7 @@ episod:
 - 🆕 [00:30:50 Про RFC Material UI 5](#){:data-timing="00:30:50"} <sup>[3](#note3)</sup>
 - 🆕 [00:35:33 Про React Router 5](#){:data-timing="00:35:33"}
 - 🤔 [00:37:20 Как работают с датами в Material UI](#){:data-timing="00:37:20"} <sup>[4](#note4)</sup>
-- 🤔 [00:41:46 Ююрий, Юриий Дуудь. Или как зарабатывать на Open Source](#){:data-timing="00:41:46"}
+- 🤔 [00:41:46 Юрий, Юрий Дудь. Или как зарабатывать на Open Source](#){:data-timing="00:41:46"}
 
 # Ссылки из обсуждений
 
