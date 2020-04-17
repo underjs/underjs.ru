@@ -18,7 +18,7 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/19-cypress-material-ui-i-prosto-pro-opensource/s-dEIybiE0vax"
+    soundcloud: "https://soundcloud.com/underjs/19-cypress-material-ui-i-prosto-pro-opensource"
     youtube: "https://www.youtube.com/watch?v=yMOKfnQmhEw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Дмитрий Коваленко
