@@ -1,16 +1,16 @@
 ---
 layout: podcast
 title: "#20 - UnderJS Discussion: Нужны ли Unit-тесты и в каком количестве?"
-date: 2020-04-17 11:00:00 +0300
+date: 2020-04-28 10:00:00 +0300
 categories: podcast
-guid: "0D9B7245-42F2-462B-BA81-8829DAC748BC"
+guid: "0350F356-C2F6-43CD-A8F9-4EA09DB204FB"
 released: true
-duration: "01:01:35"
-m4a: https://files.underjs.ru/19/episod.m4a
-m4a_length: 59823157
-mp3: https://files.underjs.ru/19/episod.mp3
-ogg: https://files.underjs.ru/19/episod.ogg
-opus: https://files.underjs.ru/19/episod.opus
+duration: "00:53:06"
+m4a: https://files.underjs.ru/20/episod.m4a
+m4a_length: 51569634
+mp3: https://files.underjs.ru/20/episod.mp3
+ogg: https://files.underjs.ru/20/episod.ogg
+opus: https://files.underjs.ru/20/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -30,11 +30,3 @@ guests:
 - 🤔 [00:07:03 Начинаем парировать и обозначать дефиниции](#){:data-timing="00:07:03"}
 - 🤔 [00:20:25 Пацура в Берсерк-режиме](#){:data-timing="00:20:25"}
 - 🤔 [00:45:37 Космос, 30-летний софт и сердечные стимуляторы](#){:data-timing="00:45:37"}
-
-# Ссылки из обсуждений
-
-- <b id="note1">1</b> [Введение в Git Merge и Git Rebase: зачем и когда их использовать](https://habr.com/ru/post/432420/)
-- <b id="note2">2</b> [Material UI](https://material-ui.com/ru/)
-- <b id="note3">3</b> [[RFC] Material-UI v5](https://github.com/mui-org/material-ui/issues/20012)
-- <b id="note4">4</b> [date-io](https://github.com/dmtrKovalenko/date-io)
-
