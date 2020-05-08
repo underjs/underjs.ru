@@ -27,6 +27,14 @@ layout: default
 
         {% if page.episod %}
             <ul class="other-players">
+                {% if page.episod.podcastly %}
+                    <li>
+                        <a href="{{ page.episod.podcastly }}" target='_blank'>
+                            <img src="/assets/images/pdcstly.png" title="Слушать на Podcastly" alt="Podcastly" />
+                        </a>
+                    </li>
+                {% endif %}
+
                 {% if page.episod.yandex %}
                     <li>
                         <a href="{{ page.episod.yandex }}" target='_blank'>

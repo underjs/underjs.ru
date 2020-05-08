@@ -20,7 +20,7 @@ hide_page_title: true
     <a href="https://open.spotify.com/show/74qaNRFTVdqZr9HmzWzoLQ?si=nHl8SgvnTveBeWpcVLF9lQ" target="_blank">Spotify</a>
 </p>
 
-<h2>Cледить</h2>
+<h2>Следить</h2>
 <p>
     <a href="https://twitter.com/underjs" target="_blank">Twitter</a>
     ::
