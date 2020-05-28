@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "#22 - GitLab, GraphQL, Vue3 c Наталией Теплухиной [Ламповый]"
-date: 2020-06-28 10:00:00 +0300
+date: 2020-05-28 10:00:00 +0300
 categories: podcast
 guid: "0D408EFF-928C-4E3A-8CA0-4E807D820DAA"
 released: true
