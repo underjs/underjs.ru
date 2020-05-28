@@ -20,6 +20,7 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/8-odin-binarnik-dlya-javascript"
     youtube: "https://www.youtube.com/watch?v=izlsGc7LNY8&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 ---
 
 > Восьмой выпуск! Поговорим про грядущий Deno 1.0, ByteCode Alliance и наше впечатления от прошедшей HolyJS Moscow 2019.

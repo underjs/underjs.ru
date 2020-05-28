@@ -20,6 +20,7 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/11-viktor-vershanskiy-i-andrey-pechkurov-lampovyy"
     youtube: "https://www.youtube.com/watch?v=fcVTofbfx2Q&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 guests:
   - Андрей Печкуров
   - Виктор Вершанский

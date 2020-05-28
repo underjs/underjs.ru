@@ -22,6 +22,7 @@ episod:
     yandex: "https://music.yandex.ru/album/8291062/track/58321352"
     apple: "https://podcasts.apple.com/ru/podcast/5-%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D1%81-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%BC-%D0%B4%D0%B2%D0%BE%D1%80%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC-%D0%BF%D1%80%D0%BE-open-source-%D0%B8-%D0%B2%D0%BA%D1%83%D1%81%D0%BD%D1%8B%D0%B5/id1475405773?i=1000451045599"
     youtube: "https://www.youtube.com/watch?v=a0JHzhWqksA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7&index=1"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 guests:
   - Роман Дворнов
 ---

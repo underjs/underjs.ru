@@ -20,6 +20,7 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/14-underhtml-pilotnyy-vypusk"
     youtube: "https://www.youtube.com/watch?v=TYYo9Ju1kKQ&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 ---
 
 > Четырнадцатый выпуск! Сегодня начинаем говорить про HTML. Доброго времени суток, с вами UnderHTML подкаст.

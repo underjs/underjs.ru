@@ -22,6 +22,7 @@ episod:
     yandex: "https://music.yandex.ru/album/8291062/track/56495543"
     apple: "https://podcasts.apple.com/ru/podcast/2-%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B2%D1%8B%D0%B3%D0%BB%D1%8F%D0%B4%D0%B8%D1%82-%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9-backend-%D0%BD%D0%B0-nodejs/id1475405773?i=1000446736343"
     youtube: "https://www.youtube.com/watch?v=nEa9HMfIlQ4&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 ---
 
 > Если ты читаешь это, значит мы выпустили второй выпуск! Настоящий Underground уже на твоем мониторе, наливая чаек, открывай IDE и начинай слушать нас на фоне. А что бы не запутаться, снизу shownotes к подкасту.

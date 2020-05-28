@@ -20,6 +20,7 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/6-deoptimizatsiya-react-vnutri-v8"
     youtube: "https://www.youtube.com/watch?v=tPFkmSy8sKA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"
 ---
 
 > Шестой выпуск! Поговорим про грядущий TypeScript 3.7, баг приводящий к деоптимизации внутри V8 на примере React и многом другом.
