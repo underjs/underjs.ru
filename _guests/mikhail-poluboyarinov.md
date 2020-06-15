@@ -1,7 +1,7 @@
 ---
 layout: guest
 name: Михаил Полубояринов
-avatar: /assets/images/Bashurov.jpg
+avatar: /assets/images/Poluboyarinov.jpg
 twitter: mike1pol
 github: mike1pol
 position: Software Engineer at Semrush
