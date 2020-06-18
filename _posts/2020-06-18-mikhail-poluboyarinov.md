@@ -18,9 +18,9 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/22-gitlab-graphql-vue3-c-nataliey-teplukhinoy-lampovyy"
-    youtube: "https://www.youtube.com/watch?v=hkZiyODRPog&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
-    podcastly: "https://pdcstly.com/ru/episod/22-git-lab-graph-ql-vue3-c-nataliej-tepluhinoj-lampovyj/4449379"
+    soundcloud: "https://soundcloud.com/underjs/24-clojurescript-istoki-piterjs-i-3d-printery-s-mikhailom-poluboyarinovym-lampovyy"
+    youtube: "https://www.youtube.com/watch?v=s8aPR7GChik&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/episod/24-clojure-script-istoki-piter-js-i-3-d-printery-s-mihailom-poluboyarinovym-lampovyj/4756917"
 guests:
   - Михаил Полубояринов
 ---
