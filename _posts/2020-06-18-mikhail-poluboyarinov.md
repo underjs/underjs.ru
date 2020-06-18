@@ -1,16 +1,16 @@
 ---
 layout: podcast
-title: "#23 - Крайне гиковский и нетехнический выпуск про: ClojureScript, истоки PiterJS и 3D-принтеры [Ламповый]"
-date: 2020-05-28 10:00:00 +0300
+title: "#24 - ClojureScript, истоки PiterJS и 3D-принтеры с Михаилом Полубояриновым [Ламповый]"
+date: 2020-06-18 10:00:00 +0300
 categories: podcast
-guid: "0D408EFF-928C-4E3A-8CA0-4E807D820DAA"
+guid: "CB81C9E8-CC9F-4F4F-B9F0-13D8552AE132"
 released: true
-duration: "01:12:02"
-m4a: https://files.underjs.ru/22/episod.m4a
-m4a_length: 69963657
-mp3: https://files.underjs.ru/22/episod.mp3
-ogg: https://files.underjs.ru/22/episod.ogg
-opus: https://files.underjs.ru/22/episod.opus
+duration: "00:54:22"
+m4a: https://files.underjs.ru/24/episod.m4a
+m4a_length: 52808075
+mp3: https://files.underjs.ru/24/episod.mp3
+ogg: https://files.underjs.ru/24/episod.ogg
+opus: https://files.underjs.ru/24/episod.opus
 seo:
     type: OnDemandEvent
 image:
@@ -25,7 +25,7 @@ guests:
   - Михаил Полубояринов
 ---
 
-> Двадцать второй выпуск! Ламповый подкаст с Наталией Теплухиной [@N_Tepluhina](https://twitter.com/N_Tepluhina). Обсуждаем GitLab, GraphQL и грядущий релиз Vue 3.
+> Двадцать четвертый выпуск! Крайне гиковский и нетехнический выпуск с Михаилом Полубояриновым [@mike1pol](https://twitter.com/mike1pol). Обсуждаем ClojureScript, истоки PiterJS и 3D-принтеры.
 
 - 🤔 [00:07:29 ClojureScript - язык для конвертации данных?](#){:data-timing="00:07:29"}
 - 🤔 [00:18:14 Про PiterJS и специфику онлайн-митапов](#){:data-timing="00:18:14"}

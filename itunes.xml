@@ -25,7 +25,8 @@ layout: null
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
         <generator>Jekyll v{{ jekyll.version }}</generator>
-        {% for post in site.categories.podcast %}
+{% for post in site.categories.podcast %}
+    {% if post.released %}
         <item>
             <title>{{ post.title }}</title>
             <itunes:explicit>{{ post.explicit | default: "No" }}</itunes:explicit>
@@ -39,6 +40,7 @@ layout: null
             <category>{{ site.podcast.category }}</category>
             <enclosure length="{{ post.m4a_length }}" url="{{ post.m4a }}" type="audio/x-m4a"/>
         </item>
-        {% endfor %}
+    {% endif %}
+{% endfor %}
     </channel>
 </rss>
