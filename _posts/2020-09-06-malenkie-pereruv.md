@@ -18,7 +18,7 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/24-clojurescript-istoki-piterjs-i-3d-printery-s-mikhailom-poluboyarinovym-lampovyy"
+    soundcloud: "https://soundcloud.com/underjs/25-malenkiy-pereryv-typescript-4-angular-10"
     youtube: "https://www.youtube.com/watch?v=ma3111Ee6GU&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/25-malenkij-pereryv-type-script-4-angular-10/6437067"
 ---
