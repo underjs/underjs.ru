@@ -20,7 +20,7 @@ image:
 episod:
     soundcloud: "https://soundcloud.com/underjs/26-baldezhnyy-vypusk-react-18-graphql-rn-063"
     youtube: "https://www.youtube.com/watch?v=qtqK52_-no8&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
-    podcastly: "https://pdcstly.com/ru/episod/25-malenkij-pereryv-type-script-4-angular-10/6437067"
+    podcastly: "https://pdcstly.com/en/episod/26-baldyozhnyj-vypusk-react-18-graph-ql-rn-0-63/6590301"
 ---
 
 > Двадцать шестой выпуск! Продолжение 25-го (вторая часть). В выпуске обсуждаем React 18, GraphQL, React Native 0.63.
