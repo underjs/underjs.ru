@@ -18,9 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    soundcloud: "https://soundcloud.com/underjs/26-baldezhnyy-vypusk-react-18-graphql-rn-063"
-    youtube: "https://www.youtube.com/watch?v=qtqK52_-no8&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
-    podcastly: "https://pdcstly.com/en/episod/26-baldyozhnyj-vypusk-react-18-graph-ql-rn-0-63/6590301"
+    youtube: "https://www.youtube.com/watch?v=b8rZlo8UXHw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/episod/27-v8-opyat-8-3-4-5-i-php-8/6886233"
 ---
 
 > Двадцать седьмой выпуск! В выпуске говорим про новые минорные релизы Node.js, но уходим в обсуждения V8 8.3/8.4/8.5, а в конце у нас обсуждение PHP8.
