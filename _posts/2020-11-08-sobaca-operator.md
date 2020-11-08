@@ -18,8 +18,8 @@ image:
     height: 512
     width: 512
 episod:
-    youtube: "https://www.youtube.com/watch?v=b8rZlo8UXHw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
-    podcastly: "https://pdcstly.com/ru/episod/27-v8-opyat-8-3-4-5-i-php-8/6886233"
+    youtube: "https://www.youtube.com/watch?v=w6XwIkvff3o&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/episod/28-brython-neutralinojs-i-lyubimye-proposal-dlya-java-script/7501978"
 ---
 
 > Двадцать восьмой выпуск! Вторая часть 27-го выпуска, все то что не вошло в 28-ой ;)
