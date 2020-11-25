@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "xsfSLKQnyQk"
     soundcloud: "https://soundcloud.com/underjs/3-sakralnoe-predskazanie-o-sozdanii-github-actions"
     yandex: "https://music.yandex.ru/album/8291062/track/56764422"
     apple: "https://podcasts.apple.com/ru/podcast/3-%D1%81%D0%B0%D0%BA%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8-github-actions/id1475405773?i=1000447217367"

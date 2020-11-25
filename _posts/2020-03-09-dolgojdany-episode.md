@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "N5el7JjodPo"
     soundcloud: "https://soundcloud.com/underjs/16-underphp-dolgozhdannyy-vypusk-s-znprod"
     youtube: "https://www.youtube.com/watch?v=N5el7JjodPo&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

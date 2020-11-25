@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "QOMhxA1kXQc"
     soundcloud: "https://soundcloud.com/underjs/15-plantatsii-ozera-i-nodejs-c-nikolaem-matvienko"
     youtube: "https://www.youtube.com/watch?v=QOMhxA1kXQc&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

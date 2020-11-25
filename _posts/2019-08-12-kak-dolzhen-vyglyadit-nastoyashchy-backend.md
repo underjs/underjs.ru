@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "nEa9HMfIlQ4"
     soundcloud: "https://soundcloud.com/underjs/2-kak-dolzhen-vyglyadit-nastoyashchiy-backend-na-nodejs"
     yandex: "https://music.yandex.ru/album/8291062/track/56495543"
     apple: "https://podcasts.apple.com/ru/podcast/2-%D0%BA%D0%B0%D0%BA-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B2%D1%8B%D0%B3%D0%BB%D1%8F%D0%B4%D0%B8%D1%82-%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9-backend-%D0%BD%D0%B0-nodejs/id1475405773?i=1000446736343"

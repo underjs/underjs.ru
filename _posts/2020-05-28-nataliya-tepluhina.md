@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "hkZiyODRPog"
     soundcloud: "https://soundcloud.com/underjs/22-gitlab-graphql-vue3-c-nataliey-teplukhinoy-lampovyy"
     youtube: "https://www.youtube.com/watch?v=hkZiyODRPog&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/22-git-lab-graph-ql-vue3-c-nataliej-tepluhinoj-lampovyj/4449379"

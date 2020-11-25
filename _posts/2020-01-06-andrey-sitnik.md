@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "8QmWDrY5mJk"
     soundcloud: "https://soundcloud.com/underjs/13-andrey-sitnik-pro-logux-postcss-i-chelovechnyy-frontend-lampovyy "
     youtube: "https://www.youtube.com/watch?v=8QmWDrY5mJk&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "w6XwIkvff3o"
     youtube: "https://www.youtube.com/watch?v=w6XwIkvff3o&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/28-brython-neutralinojs-i-lyubimye-proposal-dlya-java-script/7501978"
 ---

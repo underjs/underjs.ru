@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "Wd0wAzY6q4o"
     soundcloud: "https://soundcloud.com/underjs/12-denis-radin-pro-konferentsii-i-webgl-lampovyy"
     youtube: "https://www.youtube.com/watch?v=Wd0wAzY6q4o&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

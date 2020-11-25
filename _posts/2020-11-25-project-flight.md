@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "V3p7RGm_ZLQ"
     youtube: "https://www.youtube.com/watch?v=V3p7RGm_ZLQ&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
 guests:
   - Дэн Абрамов

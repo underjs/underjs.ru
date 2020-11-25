@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "5vdXcyme3Io"
     soundcloud: "https://soundcloud.com/underjs/9-razgovor-s-vitaliem-bragilevskim-pro-haskell-dlya-studenta-lampovyy"
     youtube: "https://www.youtube.com/watch?v=5vdXcyme3Io&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

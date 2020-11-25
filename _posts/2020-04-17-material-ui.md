@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "yMOKfnQmhEw"
     soundcloud: "https://soundcloud.com/underjs/19-cypress-material-ui-i-prosto-pro-opensource"
     youtube: "https://www.youtube.com/watch?v=yMOKfnQmhEw&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/19-cypress-material-ui-i-prosto-pro-open-source/3744782"

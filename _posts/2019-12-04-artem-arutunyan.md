@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "FwcO_L9clfA"
     soundcloud: "https://soundcloud.com/underjs/10-razgovor-s-artemom-arutyunyanom-pro-state-managment-i-uzhasnyy-typescript-lampovyy"
     youtube: "https://www.youtube.com/watch?v=FwcO_L9clfA&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/podcast/under-js-podcast/44"

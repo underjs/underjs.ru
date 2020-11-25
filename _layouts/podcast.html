@@ -21,7 +21,9 @@ layout: default
             <a href="https://github.com/underjs/underjs.ru" style="float: right;">Edit on GitHub</a>
         </div>
 
-        {% if page.episod.soundcloud %}
+        {% if page.episod.youtube_id %}
+            <iframe width="100%" height="auto" src="https://www.youtube.com/embed/{{ page.episod.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% else if page.episod.soundcloud %}
             <iframe id="sc-widget-0" src="https://w.soundcloud.com/player/?url={{ page.episod.soundcloud }}" width='100%' scrolling='no' frameborder='no'></iframe>
         {% endif %}
 
@@ -85,7 +87,7 @@ layout: default
     {% include disqus.html %}
 </div>
 
-<script>
+<!-- <script>
     const widget = SC.Widget(document.getElementById("sc-widget-0"))
     const timingLinks = Array.from(document.querySelectorAll("[data-timing]"))
 
@@ -100,4 +102,4 @@ layout: default
         const [hh, mm, ss] = timing.split(':').map(Number)
         return hh * 3600000 + mm * 60000 + ss * 1000
     }
-</script>
+</script> -->

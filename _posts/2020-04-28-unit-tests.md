@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "u0I6tbqrRWY"
     soundcloud: "https://soundcloud.com/underjs/20-underjs-discussion-nuzhny-li-unit-testy-i-v-kakom-kolichestve"
     youtube: "https://www.youtube.com/watch?v=u0I6tbqrRWY&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/20-under-js-discussion-nuzhny-li-unit-testy-i-v-kakom-kolichestve/3863651"
