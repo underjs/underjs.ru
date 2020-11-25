@@ -20,15 +20,16 @@ image:
 episod:
     youtube_id: "V3p7RGm_ZLQ"
     youtube: "https://www.youtube.com/watch?v=V3p7RGm_ZLQ&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
+    podcastly: "https://pdcstly.com/ru/episod/29-vokrug-react-s-denom-abramovym-lampovyj/7893431"
 guests:
   - Дэн Абрамов
 ---
 
-> Двадцать девятый выпуск! Долгожданный выпуск с Дэном Абрамовым [@dan_abramov](https://twitter.com/dan_abramov). Обсуждаем React (проблематику SSR, React Concurrency, RN Fabric) и интересный reseach под названием Project Flight.
+> Двадцать девятый выпуск! Долгожданный выпуск с Дэном Абрамовым [@dan_abramov](https://twitter.com/dan_abramov). Обсуждаем React (проблематику SSR, React Concurrency, RN Fabric) и интересный reseach под названием Flight.
 
 - 🆕 [00:01:12 Что нового в React 17?](#){:data-timing="00:01:12"}
 - 🤔 [00:10:12 Вопрос про отсутствие React.Lazy/Suspense в SSR](#){:data-timing="00:10:05"}
-- 🆕 [00:25:55 Project Flight](#){:data-timing="00:25:55"}
+- 🆕 [00:25:55 Reseach под названием Flight](#){:data-timing="00:25:55"}
 - 🤔 [00:48:03 React Concurrency](#){:data-timing="00:48:03"}
 - 🤔 [01:04:35 Немного про React-Native Fabric](#){:data-timing="01:04:35"}
 - 🤔 [01:10:33 Насколько реально используют RN внутри Facebook](#){:data-timing="01:10:33"}
