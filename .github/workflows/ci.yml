@@ -4,6 +4,21 @@ on:
     branches:
       - "master"
 jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Use Node.js 14.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.x
+      - name: Install deps
+        run: npm ci
+      - name: Check spell
+        run: npm run check
+
   build_image:
     name: Push Docker image to GitHub Packages
     runs-on: ubuntu-latest
