@@ -19,12 +19,12 @@ image:
     width: 512
 episod:
     youtube: "https://www.youtube.com/watch?v=gFg_6dDTj7U&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
-    podcastly: "https://pdcstly.com/ru/episod/28-brython-neutralinojs-i-lyubimye-proposal-dlya-java-script/7501978"
+    podcastly: "https://pdcstly.com/ru/episod/30-billing-i-buhgalteriya-inzhenernaya-storona-s-vitaliem-slobodinym-lampovyj/9762163"
 guests:
   - Виталий Слободин
 ---
 
-> Тридцатый выпуск! Технический выпуск с Виталием Виталий Слободиным [@mike1pol](https://twitter.com/mike1pol). Обсуждаем billing и бухгалтерию, сравниваем языки, расспрашиваем про GitLab и пытаем за Ruby.
+> Тридцатый выпуск! Технический выпуск с Виталием Виталий Слободиным [@vitalliumm](https://twitter.com/vitalliumm). Обсуждаем billing и бухгалтерию, сравниваем языки, расспрашиваем про GitLab и пытаем за Ruby.
 
 - 🤔 [00:01:10 Представление гостя.](#){:data-timing="00:01:10"}
 - 🤔 [00:03:00 Billing и бухгалтерия - инженерная сторона.](#){:data-timing="00:03:00"}
