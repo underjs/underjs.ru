@@ -18,6 +18,7 @@ image:
     height: 512
     width: 512
 episod:
+    youtube_id: "gFg_6dDTj7U"
     youtube: "https://www.youtube.com/watch?v=gFg_6dDTj7U&list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7"
     podcastly: "https://pdcstly.com/ru/episod/30-billing-i-buhgalteriya-inzhenernaya-storona-s-vitaliem-slobodinym-lampovyj/9762163"
 guests:
